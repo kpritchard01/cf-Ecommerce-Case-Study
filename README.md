@@ -10,7 +10,9 @@ The data was accessed through Kaggle, although the origin of the data source is 
 The process involved sourcing open data, exploratory data analysis, geospatial analysis, supervised and unsupervised machine learning, analyzing time series data and finally communicating results through a Tableau dashboard.
 
 More details about the project can be found in the project brief located in the Project Management folder.
-The final report including visualizations are located in the Sent to Client folder.
+The final dashboard is located on Tableau and can be found through the link below:
+[https://public.tableau.com/views/U_S_E-CommerceSalesCaseStudy/Story1?:language=en-US&:display_count=n&:origin=viz_share_link]
+
 The Scripts folder contains all the Jupyter notebooks.
 
 # Data
